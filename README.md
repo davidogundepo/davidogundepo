@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on an app for Amateur Football Clubs in UK
 
-👯 I’m looking to collaborate on this repo: [Football App](https://github.com/davidogundepo/Football-Club-UK-Template)
+👯 I’m looking to collaborate on this [Football App](https://github.com/davidogundepo/Football-Club-UK-Template) repo
 
 💬 [Ask me](https://twitter.com/messages/compose?recipient_id=1019261607006883841&text=Hello%2C%20David!) about Flutter Programming
 
