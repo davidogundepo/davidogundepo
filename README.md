@@ -4,7 +4,7 @@
 
 👯 I’m looking to collaborate on this repo: [Football App](https://github.com/davidogundepo/Football-Club-UK-Template)
 
-💬 [Ask me](https://twitter.com/david_oludepo) about Flutter Programming
+💬 [Ask me](https://twitter.com/messages/compose?recipient_id=1019261607006883841&text=Hello%2C%20David!) about Flutter Programming
 
 
 ## Links
