@@ -14,7 +14,7 @@
 
 ## Links
 
-* Twitter: https://twitter.com/DavidOOgundepo/
+* Twitter: https://twitter.com/DavidOOludepo/
 * LinkedIn: https://www.linkedin.com/in/davidogundepo/
 * Instagram: https://www.instagram.com/davidautobio/
 * Appstore: [iOS Published Apps](https://apps.apple.com/us/app/id1640829960?see-all=developer-other-apps)
