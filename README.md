@@ -14,12 +14,12 @@
 
 ## Links
 
-* Twitter: https://twitter.com/DavidOOludepo/
+* Twitter: https://twitter.com/olludepo/
 * LinkedIn: https://www.linkedin.com/in/davidogundepo/
 * Instagram: https://www.instagram.com/davidautobio/
 * Appstore: [iOS Published Apps](https://apps.apple.com/us/app/id1640829960?see-all=developer-other-apps)
 * Playstore: [Android Published Apps](https://play.google.com/store/apps/dev?id=6124939446660884899)
-* Website: https://www.nouvellesoft.io/
+* Website: https://www.novelsoft.co.uk/
 
 <!--
 **davidogundepo/davidogundepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
