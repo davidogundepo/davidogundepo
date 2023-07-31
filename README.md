@@ -5,7 +5,7 @@
 
 # Hi there 👋
 
-🔭 I’m currently working on an app for Amateur Football Clubs in UK
+🔭 I’m currently scaling the use and adoption of [The GFA App](https://tinyurl.com/ns-app-ios) for Grassroots Football Clubs in The UK
 
 👯 I’m looking to collaborate on this [Football App](https://github.com/davidogundepo/Football-Club-UK-Template) repo
 
